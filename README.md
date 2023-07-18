@@ -1,3 +1,5 @@
+![](https://github.com/a-boring-man/Pipex/115_score_icon.png)
+
 # Pipex
 
 A early 42 school project.
