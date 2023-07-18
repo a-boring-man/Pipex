@@ -2,10 +2,8 @@
 
 # Pipex
 
-A early 42 school project.
+This project was an early project at 42 school that involved creating an executable that would do the work of the ```|``` operator in shell. This project introduced me to new concepts like child processes using ```fork()```, ```dup2()```, and ```pipe()```.
 
-the goal was to create an executable doing the work of the | operator un shell.
+## Bonus
 
-lots of new notions like child using fork() and dup2() and pipe().
-
-the bonus was to be able to execute an "infinite" number of argument in fact chainning | together in the same way as bash do.
+The bonus was to be able to execute an infinite number of arguments, in fact, chaining ```|``` together in the same way as bash does.
