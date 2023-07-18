@@ -1,4 +1,4 @@
-![](https://github.com/a-boring-man/Pipex/115_score_icon.png)
+![](https://github.com/a-boring-man/Pipex/blob/main/115_score_icon.png)
 
 # Pipex
 
